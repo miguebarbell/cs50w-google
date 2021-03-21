@@ -1,2 +1,2 @@
 # cs50w
-projects of hardvardx
+projects of harvardx
